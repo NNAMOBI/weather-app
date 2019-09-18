@@ -1,0 +1,26 @@
+body {
+    background-color:#808080;
+    background: no-repeat center fixed;
+    background-size: cover;
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+  h1#data {
+    color:#000000;
+    margin-left: 5px;
+    
+  }
+
+  input[type="submit"] {
+    text-align: center;
+    width: 120px;
+  }
+
+  .container text-center {
+    
+  }
